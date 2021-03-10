@@ -1,6 +1,11 @@
 import string
 import secrets
 import logo
+import os
+os.system('pip3 install colorama')
+os.system('clear')
+os.system('pip install colorama')
+os.system('clear')
 from colorama import Fore, Back, Style
 
 logo.logo()
