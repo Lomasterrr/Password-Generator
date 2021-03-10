@@ -1,5 +1,3 @@
-import random 
-from math import sqrt
 import string
 import secrets
 import logo
