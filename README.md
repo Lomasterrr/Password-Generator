@@ -20,5 +20,4 @@ DURING INSTALLATION, PLEASE PRESS THE CHECK DOWN!!!!!!!
 ---------------------------------------------------------------------------------------
 All is ready!
 
-"Password_Generator"  || Example generation:  mdc7jkpWYzLi
 
